@@ -1,0 +1,51 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Environment-specific files
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Package directories
+dist/
+build/
+*.egg-info/
+
+# Distribution / packaging
+.Python
+*.exe
+*.dll
+*.so
+*.dylib
+*.local
+*.db
+
+# Pipenv
+Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+target.txt
